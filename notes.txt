@@ -2,3 +2,4 @@ Git and GitHub.
 This is a practical note to demonstrate the various git operations.
 Git tracks changes over time.
 This change belongs to the feature branch.
+GitHub is the remote repository.
