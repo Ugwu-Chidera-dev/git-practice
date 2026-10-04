@@ -2,7 +2,7 @@
 
 
 
-A practical repository for learning Git and GitHub.
+A practical repository for mastering Git and GitHub.
 
 
 
